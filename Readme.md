@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Екатерина Байкова](https://up.htmlacademy.ru/htmlcss/31/user/1797489).
-* Наставник: (Михаил Кислый).
+* Наставник: [Михаил Кислый](https://htmlacademy.ru/profile/smart-grizzly).
 
 ---
 
